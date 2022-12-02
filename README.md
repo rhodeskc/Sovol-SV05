@@ -18,7 +18,7 @@ on Sovol Official Website: https://sovol3d.com/products/sv05-cubic-structure-dir
 
 # Source code
 
-This is the official source code for Sovol SV05. The damage caused by modifying firmware also using the third party firmware will lose the 1 year warranty. 
+This is a clone of the official source code for Sovol SV05. The damage caused by modifying firmware also using the third party firmware will lose the 1 year warranty. 
 
 Sovol doesn’t provide tech help for help users to modify source code, but if you need us to add more functions, you are welcome to send us your suggestions via facebook massager here https://www.facebook.com/sovol3d/ or email 
 info@sovol3d.com 
