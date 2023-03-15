@@ -440,7 +440,7 @@
  *     8 : 100kΩ  Vishay 0603 SMD NTCS0603E3104FXT
  *     9 : 100kΩ  GE Sensing AL03006-58.2K-97-G1
  *    10 : 100kΩ  RS PRO 198-961
- *    11 : 100kΩ  Keenovo AC silicone mats, most Wanhao i3 machines - beta 3950, 1%
+ *--> 11 : 100kΩ  Keenovo AC silicone mats, most Wanhao i3 machines - beta 3950, 1%
  *    12 : 100kΩ  Vishay 0603 SMD NTCS0603E3104FXT (#8) - calibrated for Makibox hot bed
  *    13 : 100kΩ  Hisens up to 300°C - for "Simple ONE" & "All In ONE" hotend - beta 3950, 1%
  *    15 : 100kΩ  Calibrated for JGAurora A5 hotend
